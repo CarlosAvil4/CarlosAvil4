@@ -1,16 +1,14 @@
-## Hi there 👋
+#  ¡Hola, soy Juan Carlos! 👷‍♂️ 
 
-<!--
-**CarlosAvil4/CarlosAvil4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un **ingeniero civil** apasionado por la construcción, los datos y la programación. 🏗️📊💻  
 
-Here are some ideas to get you started:
+🎓 **Formación**  
+Estudié Ingeniería Civil en la **Corporación Universitaria Remington**, donde descubrí mi pasión por resolver problemas estructurales y optimizar procesos.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Actualmente aprendiendo sobre...**  
+- 🏗️ **Ingeniería estructural**
+- 📊 **Análisis de datos**
+- 💻 **Programación**
+
+
+ *Código + Concreto = Innovación* 💡🔥  
