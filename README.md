@@ -11,7 +11,7 @@ Estudié Ingeniería Civil en la **Corporación Universitaria Remington**, donde
 - 💻 **Programación**
 
 
- *Código + Concreto = Innovación* 💡🔥  
+ *Zenith Ingeniería* 💡🔥  
 
 
 ## 🌐 Redes Sociales:
