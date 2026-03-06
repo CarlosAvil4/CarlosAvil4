@@ -2,17 +2,13 @@
 
 Soy un **ingeniero civil** apasionado por la construcción, los datos y la programación. 
 
-🎓 **Formación**  
+**Formación**  
 Estudié Ingeniería Civil en la **Corporación Universitaria Remington**, donde descubrí mi pasión por resolver problemas estructurales y optimizar procesos.  
 
 **Actualmente aprendiendo sobre...**  
 - **Ingeniería estructural**
 - **Análisis de datos**
 - **Programación**
-
-
- *Zenith Ingeniería* 💡🔥  
-
 
 ## Redes Sociales:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/macr8ss) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jcarlosavila) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:penaavilajuancarlos@gmail.com) 
